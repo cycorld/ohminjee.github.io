@@ -1,14 +1,24 @@
-## 오민지 이력서
+## CV: Min Jee, Oh 
 
-Welcome to my CV page. 
+Welcome to my CV page!
 
-### 소속
+### EDUCATION
 
-Ewha Womans University, Graduate School of International Studies 
+Ewha Womans University, Graduate School of International Studies _2021.09 - Present_ 
+Ewha Womans University, Scranton College, International Studies and Development & Cooperation Majors _2018.03 - 2021.08_
 
-# Header 1
-## Header 2
-### Header 3
+# AWARDS, HONORS, & SCHOLARSHIPS
+
+## EXPERIENCES
+### Research 
+
+#### Work 
+**Reseach Assistant**, Ewha Womans University _2021.09 - Present_
+**Administrative Assistant**, Ewha Womans University, _2021.04 - Present_ 
+
+##### Wokrshops & Training 
+
+###### Others 
 
 - Bulleted
 - List
