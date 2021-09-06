@@ -24,7 +24,7 @@ Feel free to reach out to me via email at **email** or moblie at **phone**.
 * jkl
 
 ## SKILLS 
-
+![Image] (Screen Shot 2021-09-06 at 3.13.34 PM.png)
 
 
 **Bold** and _Italic_ and `Code` text
