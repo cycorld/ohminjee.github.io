@@ -1,30 +1,31 @@
-## CV: Min Jee, Oh 
+# CV: Min Jee, Oh 
 
-Welcome to my CV page!
+Welcome to my CV page! My reserach interests are **asdf**
 
-### EDUCATION
+Feel free to reach out to me via email at **email** or moblie at **phone**. 
 
-Ewha Womans University, Graduate School of International Studies _2021.09 - Present_ 
-Ewha Womans University, Scranton College, International Studies and Development & Cooperation Majors _2018.03 - 2021.08_
+## EDUCATION
+* Ewha Womans University, Graduate School of International Studies, International Studies, Development & Coopeartion _2021.09 - Present_ 
+* Ewha Womans University, Scranton College, International Studies and Development & Cooperation Majors _2018.03 - 2021.08_
 
-# AWARDS, HONORS, & SCHOLARSHIPS
-
+## AWARDS, HONORS, & SCHOLARSHIPS
+* abc
 ## EXPERIENCES
 ### Research 
+* def
+### Work 
+* **Reseach Assistant**, Ewha Womans University _2021.09 - Present_
+* **Administrative Assistant**, Ewha Womans University _2021.04 - Present_ 
+* **Research Assistant**, Professor xyz _2020.12 - 2021.05_
 
-#### Work 
-**Reseach Assistant**, Ewha Womans University _2021.09 - Present_
-**Administrative Assistant**, Ewha Womans University, _2021.04 - Present_ 
+### Wokrshops & Training 
+* ghi
+### Others 
+* jkl
 
-##### Wokrshops & Training 
+## SKILLS 
 
-###### Others 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
